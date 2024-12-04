@@ -5,10 +5,11 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Yasmina Maddah</h1>
-<h3 align="center">A fast learner and a passionate developer</h3>
+<h2 align="center">🎨 Artist | ⚛️ Physicist | 💻 Developer</h2>
+<h3 align="center">"Where creativity meets science and technology!"</h3>
 
-<div><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/ed/9d/fced9df5cc4a4b0a50c219007cf12541.gif"></div>
-
+<div><img align="left" alt="Coding" width="300" src="https://i.pinimg.com/originals/fc/ed/9d/fced9df5cc4a4b0a50c219007cf12541.gif"></div>
+<img align="right" alt="physics" width="300" src="https://i.pinimg.com/474x/d9/bc/42/d9bc42f7a26c20f2a4dae15d84b66851.jpg">
 
 - 🌱 I’m currently learning **Node.js and MangoDB**
 
