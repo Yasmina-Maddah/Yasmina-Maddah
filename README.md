@@ -1,7 +1,12 @@
-[![MasterHead](https://i.pinimg.com/736x/a8/7e/1c/a87e1ccd6ca3b9c908c921fb7ded2081.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Yasmina Maddah</h1>
+[![MasterHead](https://i.pinimg.com/474x/07/6c/a4/076ca4ab40fb5f03c83021bdea86443d.jpg)](https://rishavchanda.io)
+
+<h1 align="center">Hi 👋, I'm Yasmina Maddah, Welcome to my place</h1>
 <h3 align="center">A fast learner and a passionate developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2d7417359fc76b2e43f5e52831266b630d5c91cff55e249beb252875b092ba50/68747470733a2f2f7374656d65747465732e6f72672f7a696e652f77702d636f6e74656e742f75706c6f6164732f73697465732f332f323032312f30382f67697068792d31332d312e676966">
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/ed/9d/fced9df5cc4a4b0a50c219007cf12541.gif">
+<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/474x/2a/93/60/2a9360380e7c22a1688edd6da3b78128.jpg">
+
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmina-maddah&label=Profile%20views&color=0e75b6&style=flat" alt="yasmina-maddah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasmina-maddah" alt="yasmina-maddah" /></a> </p>
