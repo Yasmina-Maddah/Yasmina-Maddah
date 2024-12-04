@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 - 🌱 I’m currently learning **Laravel, React-Redux, ...**
-- 💬 Ask me about **React, Next.js & Laravel**
+- 💬 Ask me about **React, Node.js & Laravel**
 - 📫 How to reach me: **maddahyasmina@gmail.com**
 - ⚡ Fun fact: **I like to paint🎨**
 
